@@ -1,6 +1,6 @@
 {
   "name": "konnekt-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A cli tool for interacting with the Konnekt framework quickly and easily from command line",
   "main": "init.js",
   "bin": {

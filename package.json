@@ -1,0 +1,25 @@
+{
+  "name": "konnekt-cli",
+  "version": "0.0.1",
+  "description": "A cli tool for interacting with the Konnekt framework quickly and easily from command line",
+  "main": "init.js",
+  "bin": {
+    "konnekt": "./bin/konnekt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keleko34/konnekt-cli.git"
+  },
+  "keywords": [
+    "konnekt",
+    "cli",
+    "framework"
+  ],
+  "author": "keleko34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keleko34/konnekt-cli/issues"
+  },
+  "homepage": "https://github.com/keleko34/konnekt-cli#readme",
+  "dependencies": {}
+}

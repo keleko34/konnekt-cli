@@ -3,7 +3,6 @@ var shell = require('child_process').execSync,
 
 module.exports = function(args){
   filecheck(function(){
-    console.log(args);
     shell("node init --task create "+args.join(" "),{ stdio: 'inherit' });
   });
 }
